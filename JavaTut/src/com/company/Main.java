@@ -193,6 +193,18 @@ public class Main {
         System.out.println(n); // outputs 3
 
 
+        // METHODS
+            // must be declared inside a class
+        static void myMethod(){
+            System.out.println("Hello World");
+        }
+
+        myMethod(); // outputs "Hello World"
+
+
+
+
+
 
 
 
